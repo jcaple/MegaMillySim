@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simply python script to simulate playing a ton of games in one of America's most popular lotteries.  This script
+This is a simple python script to simulate playing a ton of games in one of America's most popular lotteries.  This script
 helps to provide context around just how difficult it is for a individual, buying 1-2 lottery tickets a week, to hit the
 lottery jackpot.  And no, it's not impossible to hit the jackpot, but practically speaking, it does seem to be humanly
 impossible, as running this script will help to show.
